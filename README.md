@@ -8,3 +8,7 @@ This is a chat app which support rich text editor without using any library and 
 2. Run "cd nodeServer" in the main directory and then run command "npm install" to install all dependency.
 3. Run "node index.js" to run the web socket.
 4. Now open index.html file in browser and you are done.
+
+# Some Snaps:
+
+![alt text](https://github.com/mithilesh2711/rich-text/blob/main/assets/images/1.PNG?raw=true)
