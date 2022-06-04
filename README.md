@@ -11,4 +11,6 @@ This is a chat app which support rich text editor without using any library and 
 
 # Some Snaps:
 
-![alt text](https://github.com/mithilesh2711/rich-text/blob/main/assets/images/1.PNG?raw=true)
+![Login](https://github.com/mithilesh2711/rich-text/blob/main/assets/images/ss13.png?raw=true)
+![](https://github.com/mithilesh2711/rich-text/blob/main/assets/images/ss2.png?raw=true)
+![](https://github.com/mithilesh2711/rich-text/blob/main/assets/images/ss1.png?raw=true)
